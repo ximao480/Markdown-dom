@@ -31,11 +31,7 @@ _斜体_  __文字__
 | zebra stripes | are neat      |    $1 |
 
 # 代码
-'networkstate: {  //网络状态
-      state: 1,   // 0 断网  1 正常  2 正在连接
-      fps: '',
-      color: ''
-    },'
+
   ` networkstate: {  //网络状态
       state: 1,   // 0 断网  1 正常  2 正在连接
       fps: '',
